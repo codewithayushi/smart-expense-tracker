@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "title": "Brunch",
+        "amount": 60.0,
+        "category": "string",
+        "date": "01-08-2026"
+    },
+    {
+        "id": 1,
+        "title": "Breakfast",
+        "amount": 101.0,
+        "category": "string",
+        "date": "02-08-2026"
+    },
+    {
+        "id": 2,
+        "title": "Lunch",
+        "amount": 267.0,
+        "category": "string",
+        "date": "03-08-2026"
+    },
+    {
+        "id": 5,
+        "title": "Lunch",
+        "amount": 150.0,
+        "category": "Food",
+        "date": "31-07-2026"
+    },
+    {
+        "id": 6,
+        "title": "Lunch",
+        "amount": 300.0,
+        "category": "Food",
+        "date": "01-08-2026"
+    },
+    {
+        "id": 7,
+        "title": "Dinner",
+        "amount": 289.0,
+        "category": "Food",
+        "date": "03-08-2026"
+    }
+]
